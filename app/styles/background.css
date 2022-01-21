@@ -1,0 +1,30 @@
+.background {
+    position: relative;
+    flex-basis: 50%;
+}
+
+.backgroundContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.content {
+    display: flex;
+    flex-basis: 50%;
+    background-color: #000;
+}

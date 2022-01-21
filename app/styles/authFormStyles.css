@@ -1,0 +1,83 @@
+.topLinkContainer {
+    margin-bottom: 30px;
+    text-align: right;
+}
+
+.registrationLink {
+    font-size: 14px;
+    line-height: 21px;
+    color: #3e3e3e;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.registrationLink:hover {
+    color: #fffac4;
+    opacity: 1;
+}
+
+.logoContainer {
+    position: relative;
+    max-width: 168px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.formHeader {
+    display: flex;
+    justify-content: space-between;
+    margin: 34px 0;
+}
+
+.logInTitle {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #fffac4;
+}
+
+.registration {
+    font-size: 14px;
+    line-height: 21px;
+    margin: auto 0 0;
+}
+
+.registrationLink {
+    font-size: 14px;
+    line-height: 21px;
+    color: #3e3e3e;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.registrationLink:hover {
+    color: #fffac4;
+    opacity: 1;
+}
+
+.inputContainer {
+    margin-top: 60px;
+}
+
+.inputContainer:first-child {
+    margin-top: 0;
+}
+
+.additionalInfo {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 54px;
+}
+
+.buttonContainer {
+    margin-top: 60px;
+}
+
+.input {
+    margin-top: 40px;
+}
+
+.input:first-child {
+    margin-top: 0;
+}
+
